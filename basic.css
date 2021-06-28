@@ -1,0 +1,14 @@
+h1
+{
+    color: blue;
+}
+body{
+    background-color:cyan ;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: rgb(100, 0, 55);
+    border-width: 9px;
+    width: 20%;
+}
